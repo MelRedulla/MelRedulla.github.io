@@ -45,21 +45,9 @@ img {
   height: 325px;
 }
 
-p1 {
+p {
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-left: 50px;
-}
-
-p2 {
-  padding-top: 10px;
-  padding-bottom: 10px;
-  padding-left: 50px;
-}
-
-p3 {
-  padding-top: 10px;
-  padding-bottom: 40px;
   padding-left: 50px;
 }
 
